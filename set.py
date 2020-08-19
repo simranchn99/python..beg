@@ -1,0 +1,5 @@
+s = set([1,2])
+#print(hello)
+#print(type(hello))
+s1 = s.union({1,2,3,4})
+print(s)
